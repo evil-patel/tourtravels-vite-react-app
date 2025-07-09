@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+@import "flowbite";
+.bg-destination
+{
+    background-image: url('../src/assets/images/destinations.webp');
+    background-size: cover;
+
+}
+.h80dvh
+{
+    height:80dvh;
+}
