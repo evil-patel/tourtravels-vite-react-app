@@ -3,7 +3,7 @@ export default function Navebar()
 {
     return(
         <>
-        <div className="px-6 py-4 bg-transparent ">
+        <div className="px-6 py-4 bg-gradient-to-bl from-purple-500 to-green-300 ">
             <div className="w-5/6 mx-auto flex justify-between items-center">
                 <div className="text-2xl font-bold text-transparent bg-gradient-to-l from-green-500 to-blue-400 bg-clip-text">MK Tours</div>
                 <div className="flex gap-10">
